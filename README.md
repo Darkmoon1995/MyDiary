@@ -1,2 +1,2 @@
 #Cool
-(Cool Link)[https://darkmoon.blog/Dashboard.html]
+[Cool Link](https://darkmoon.blog/Dashboard.html)
