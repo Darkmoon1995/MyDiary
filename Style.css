@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+.divInMid{
+  display: flex;
+  margin-left: 5%;
+  justify-content: left;
+}
+h2{
+  color: red;
+  font-family: "Yuji Mai", serif;
+}
+h3{
+  font-family: sans-serif;
+  color: wheat;
+}
+a{
+  color: aqua;
+  text-decoration: none;
+
+}
+p{
+  color: rgb(255, 255, 255);
+}
+div{
+  margin-left: 5px;
+}
